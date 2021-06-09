@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Malayvasa/SpotifyWithReact/static/css/main.e7a0b08b.chunk.css",
+    "main.js": "/Malayvasa/SpotifyWithReact/static/js/main.08aa5629.chunk.js",
+    "main.js.map": "/Malayvasa/SpotifyWithReact/static/js/main.08aa5629.chunk.js.map",
+    "runtime-main.js": "/Malayvasa/SpotifyWithReact/static/js/runtime-main.72553bd1.js",
+    "runtime-main.js.map": "/Malayvasa/SpotifyWithReact/static/js/runtime-main.72553bd1.js.map",
+    "static/css/2.55ccbe94.chunk.css": "/Malayvasa/SpotifyWithReact/static/css/2.55ccbe94.chunk.css",
+    "static/js/2.657b4205.chunk.js": "/Malayvasa/SpotifyWithReact/static/js/2.657b4205.chunk.js",
+    "static/js/2.657b4205.chunk.js.map": "/Malayvasa/SpotifyWithReact/static/js/2.657b4205.chunk.js.map",
+    "index.html": "/Malayvasa/SpotifyWithReact/index.html",
+    "static/css/2.55ccbe94.chunk.css.map": "/Malayvasa/SpotifyWithReact/static/css/2.55ccbe94.chunk.css.map",
+    "static/css/main.e7a0b08b.chunk.css.map": "/Malayvasa/SpotifyWithReact/static/css/main.e7a0b08b.chunk.css.map",
+    "static/js/2.657b4205.chunk.js.LICENSE.txt": "/Malayvasa/SpotifyWithReact/static/js/2.657b4205.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72553bd1.js",
+    "static/css/2.55ccbe94.chunk.css",
+    "static/js/2.657b4205.chunk.js",
+    "static/css/main.e7a0b08b.chunk.css",
+    "static/js/main.08aa5629.chunk.js"
+  ]
+}
